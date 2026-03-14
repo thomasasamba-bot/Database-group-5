@@ -1,25 +1,22 @@
-DB-GroupWork-Template
+# DB-GroupWork
 
+## Project Title
+**A Peer Tutoring Platform**
 
-Project title -- A Peer Tutoring Platform
+## Group Number
+5
 
-Group number 5 Members:
+## Members
+1. 8331 Thomas Asamba  
+2. 224474 Abigail Githeci  
+3. 151426 Keittah Oyunga  
+4. 226076 Mumbya Lubamba Gloria  
+5. 166227 Jack Spencer Odisa  
 
-08331 Thomas Asamba
+## Project SDG
+**SDG 4 (Quality Education)**
 
-224474 Abigail Githeci
+Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.
 
-151426 Keittah Oyunga
-
-226076 Mumbya Lubamba Gloria
-
-166227 Jack Spencer Odisa
-
-Project SDG:
-SDG 4: Quality Education
-
-Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
-
-
-Brief description of the database and system
-The system is a Peer Tutoring Platform , a web-based database driven application that connects students who need academic help, with qualified peer tutors within their institution.
+## Brief Description of the Database and System
+The system is a **Peer Tutoring Platform**, a web-based, database-driven application that connects students who need academic help with qualified peer tutors within their institution.
